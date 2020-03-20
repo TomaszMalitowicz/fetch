@@ -1,0 +1,40 @@
+{
+  "lesson": "animals",
+  "words": [
+    {
+      "id": 1,
+      "en": "cat",
+      "pl": "kot"
+    },
+    {
+      "id": 2,
+      "en": "dog",
+      "pl": "pies"
+    },
+    {
+      "id": 3,
+      "en": "fish",
+      "pl": "ryba"
+    },
+    {
+      "id": 4,
+      "en": "horse",
+      "pl": "koń"
+    },
+    {
+      "id": 5,
+      "en": "hamster",
+      "pl": "chomik"
+    },
+    {
+      "id": 6,
+      "en": "shark",
+      "pl": "rekin"
+    },
+    {
+      "id": 7,
+      "en": "rabbit",
+      "pl": "królik"
+    }
+  ]
+}
